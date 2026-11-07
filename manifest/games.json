@@ -18,24 +18,28 @@
     "logoImage": "Images/entretempos-logo.png",
     "backgroundImage": "Images/entretempos-fundo.jpg"
   },
-  {
-    "id": "ddlc",
-    "name": "Doki Doki Literature Club! End Game (MOD)",
-    "genre": "Visual Novel - PC",
-    "description": "As Garotas do clube de literatura estão de volta para uma ultima missão, jogue o mod de Doki Doki e descubra. Viva essa aventura!",
-    "developers": "Infinite Games Studios",
-    "publisher": "Infinite Games Studios",
-    "version": "1.0.0",
-    "downloadUrl": "https://github.com/infinite-games-studios/repositoriodeatualizacoes/releases/download/ddlc-v1.0.0/ddlc.zip",
-    "executable": "ESP8266Flasher.exe",
-    "sha256": "B27814454DCE6CFCCE64B0AE05848E02ED330EEE7A06C7D17872D315C34E27F2",
-    "PrivateDownload": false,
-    "launcherOnly": true,
-    "gradientTop": "#7A1424",
-    "gradientBottom": "#C2415A",
-    "accentColor": "#D7263D",
-    "iconImage": "Images/ddlc-icone.png",
-    "logoImage": "Images/ddlc-logo.png",
-    "backgroundImage": "Images/ddlc-fundo.jpg"
-  }
+  
+{
+  "id": "ddlc",
+  "name": "Doki Doki Literature Club! End Game (MOD)",
+  "genre": "Visual Novel - PC",
+  "description": "As Garotas do clube de literatura estão de volta para uma ultima missão, jogue o mod de Doki Doki e descubra. Viva essa aventura!",
+  "developers": "Infinite Games Studios",
+  "publisher": "Infinite Games Studios",
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/infinite-games-studios/repositoriodeatualizacoes/releases/download/ddlc-v1.0.0/ddlc.zip",
+  "executable": "DDLC.exe",
+  "sha256": "B27814454DCE6CFCCE64B0AE05848E02ED330EEE7A06C7D17872D315C34E27F2",
+  "isMod": true,
+  "baseGameExecutable": "DDLC.exe",
+  "privateDownload": false,
+  "launcherOnly": false,
+  "gradientTop": "#7A1424",
+  "gradientBottom": "#C2415A",
+  "accentColor": "#D7263D",
+  "iconImage": "Images/ddlc-icone.png",
+  "logoImage": "Images/ddlc-logo.png",
+  "backgroundImage": "Images/ddlc-fundo.jpg"
+}
+
 ]

@@ -29,7 +29,7 @@
     "downloadUrl": "https://raw.githubusercontent.com/infinite-games-studios/repositoriodeatualizacoes/main/releases/ddlc.zip",
     "executable": "",
     "sha256": "B27814454DCE6CFCCE64B0AE05848E02ED330EEE7A06C7D17872D315C34E27F2",
-    "PrivateDownload": true,
+    "PrivateDownload": false,
     "launcherOnly": true,
     "gradientTop": "#7A1424",
     "gradientBottom": "#C2415A",

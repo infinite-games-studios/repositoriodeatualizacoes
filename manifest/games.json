@@ -26,7 +26,7 @@
     "developers": "Infinite Games Studios",
     "publisher": "Infinite Games Studios",
     "version": "1.0.0",
-    "downloadUrl": "https://raw.githubusercontent.com/infinite-games-studios/repositoriodeatualizacoes/main/releases/ddlc.zip",
+    "downloadUrl": "https://github.com/infinite-games-studios/repositoriodeatualizacoes/releases/download/ddlc-v1.0.0/ddlc.zip",
     "executable": "ESP8266Flasher.exe",
     "sha256": "B27814454DCE6CFCCE64B0AE05848E02ED330EEE7A06C7D17872D315C34E27F2",
     "PrivateDownload": false,
